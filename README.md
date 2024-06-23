@@ -5,6 +5,7 @@ Discover driver genes from a multi-omics data based multi-layer network model
 You can install the development version of MNMO like so:
 
 ```{r, eval=FALSE}
+library(psych)
 install.packages("/path_to_package/MNMO_xxx.tar.gz", repos = NULL)
 library(MNMO)
 ```
