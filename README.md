@@ -53,8 +53,4 @@ brca_list <- MNMO(layer2_gene_list,layer2_network,brca_cancer_s,brca_G_mut,     
                   mirna_value,mir_gene_network,gene_expscore_2,gene_expscore_3)
 ```
 
-Finally, the following function is used to calculate the final score of the gene and rank the potential driver genes:
-```{r, eval=FALSE, message=FALSE, warning = FALSE}
-library(MNMO)
-
-```
+ 
