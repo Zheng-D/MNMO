@@ -3,7 +3,7 @@ Discover driver genes from a multi-omics data based multi-layer network
 
 ## Installation
 
-Please ensure that R Studio are installed before running the code.
+Please ensure that R Studio are installed before running the code.  
 Then you can install the development version of MNMO like so:
 
 ```{r, eval=FALSE}
