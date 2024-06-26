@@ -1,8 +1,10 @@
 # MNMO
 Discover driver genes from a multi-omics data based multi-layer network 
+
 ## Installation
 
-You can install the development version of MNMO like so:
+Please ensure that R Studio are installed before running the code.
+Then you can install the development version of MNMO like so:
 
 ```{r, eval=FALSE}
 library(psych)
